@@ -8,7 +8,7 @@ setup(
     description="Una librería para la generación de datos artificiales tabulares",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/DidadoY/project",
+    url="https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
