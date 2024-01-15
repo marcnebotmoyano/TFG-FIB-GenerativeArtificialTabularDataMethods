@@ -17,8 +17,8 @@ La librería incluye implementaciones de:
 Clona este repositorio y luego instala las dependencias necesarias con:
 
 ```bash
-git clone repositorio
-cd repositorio
+git clone https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods
+cd TFG-FIB-GenerativeArtificialTabularDataMethods
 pip install -r requirements.txt
 ```
 
