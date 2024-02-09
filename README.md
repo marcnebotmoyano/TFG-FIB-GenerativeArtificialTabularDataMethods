@@ -45,7 +45,9 @@ config.py: Configuración del input
 Los resultados de los modelos se pueden visualizar con los scripts de utils/, los cuales incluyen PCA y t-SNE para comparaciones de alta dimensionalidad y gráficos de densidad para comparaciones univariadas.
 
 ## Memoria
-[![Memoria.pdf]()]https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods/blob/main/Generative%20Artificial%20Tabular%20Data%20Methods%20-%20Marc%20Nebot%20i%20Moyano.pdf
+[![Memoria.pdf]()](https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods/blob/main/Generative%20Artificial%20Tabular%20Data%20Methods%20-%20Marc%20Nebot%20i%20Moyano.pdf)
+
+## Contribuciones
 Las contribuciones son bienvenidas. Por favor, crea una issue o un pull request con tus sugerencias.
 
 ## Licencia
