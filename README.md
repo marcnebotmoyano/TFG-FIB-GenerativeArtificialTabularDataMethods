@@ -33,18 +33,12 @@ demo.py es solo un script ejemplificado del uso de la librería de PyTorch.
 
 ## Estructura de código
 El repositorio está organizado de la siguiente manera:
-
-models/: Contiene los modelos VAE, GAN y BitDiffusion.
-
-trainers/: Scripts para entrenar los diferentes modelos.
-
-data_loader/: Funciones para cargar y procesar los datos.
-
-utils/: Funciones de utilidad como métricas de evaluación y visualización de datos.
-
-main.py: Punto de entrada principal para ejecutar los modelos.
-
-config.py: Configuración del input
+- **models/**: Contiene los modelos VAE, GAN y BitDiffusion.
+- **trainers/**: Scripts para entrenar los diferentes modelos.
+- **data_loader/**: Funciones para cargar y procesar los datos.
+- **utils/**: Funciones de utilidad como métricas de evaluación y visualización de datos.
+- **main.py**: Punto de entrada principal para ejecutar los modelos.
+- **config.py**: Configuración del input
 
 ## Resultados
 Los resultados de los modelos se pueden visualizar con los scripts de utils/, los cuales incluyen PCA y t-SNE para comparaciones de alta dimensionalidad y gráficos de densidad para comparaciones univariadas.
