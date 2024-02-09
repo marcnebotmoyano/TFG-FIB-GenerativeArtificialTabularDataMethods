@@ -45,7 +45,7 @@ config.py: Configuración del input
 Los resultados de los modelos se pueden visualizar con los scripts de utils/, los cuales incluyen PCA y t-SNE para comparaciones de alta dimensionalidad y gráficos de densidad para comparaciones univariadas.
 
 ## Memoria
-[![Memoria.pdf](https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/assets/58046161/21b7a666-8f4e-4639-8a54-9f41c304dbd8)]([https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/files/11803440/Memoria-marc.camarillas.3.pdf](https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods/blob/main/Generative%20Artificial%20Tabular%20Data%20Methods%20-%20Marc%20Nebot%20i%20Moyano.pdf))
+[![Memoria.pdf]()]([https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/files/11803440/Memoria-marc.camarillas.3.pdf](https://github.com/marcnebotmoyano/TFG-FIB-GenerativeArtificialTabularDataMethods/blob/main/Generative%20Artificial%20Tabular%20Data%20Methods%20-%20Marc%20Nebot%20i%20Moyano.pdf))
 ## Contribución
 Las contribuciones son bienvenidas. Por favor, crea una issue o un pull request con tus sugerencias.
 
