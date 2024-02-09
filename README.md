@@ -35,10 +35,15 @@ demo.py es solo un script ejemplificado del uso de la librería de PyTorch.
 El repositorio está organizado de la siguiente manera:
 
 models/: Contiene los modelos VAE, GAN y BitDiffusion.
+
 trainers/: Scripts para entrenar los diferentes modelos.
+
 data_loader/: Funciones para cargar y procesar los datos.
+
 utils/: Funciones de utilidad como métricas de evaluación y visualización de datos.
+
 main.py: Punto de entrada principal para ejecutar los modelos.
+
 config.py: Configuración del input
 
 ## Resultados
